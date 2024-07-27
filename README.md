@@ -1,4 +1,4 @@
-# SvelteKit Demo app
+`# SvelteKit Demo app
 
 The official demo app for SvelteKit, hosted on Vercel.
 
