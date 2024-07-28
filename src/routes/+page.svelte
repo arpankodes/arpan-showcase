@@ -1,18 +1,23 @@
-<script>
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
-</script>
-
 <svelte:head>
 	<title>Home</title>
 	<meta name="description" content="Arpan's portfolio website." />
 </svelte:head>
 
 <section>
-	<h1>
-		Welcome to my website!
+	<h1 class="fw-light">
+		Hey there!
 	</h1>
 
+	<p>
+		I'm <span class="fw-bold">Arpan Kanungo</span>, a software developer by day, and a curious tinkerer by night.
+	</p>
+
+	<p>
+		Dive into my <a href="/portfolio">portfolio</a>, enjoy my <a href="/blog">blog</a>, and connect with me on <a href="/socials">social media</a>.
+	</p>
+	<p>
+		Thanks for dropping by!
+	</p>
 </section>
 
 <style>
@@ -25,22 +30,7 @@
 	}
 
 	h1 {
-		width: 100%;
+		color: #696969b7;
 	}
 
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
-	}
-
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
-	}
 </style>

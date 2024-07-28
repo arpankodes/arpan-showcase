@@ -25,7 +25,16 @@
 	</main>
 
 	<footer>
-		pretend its a really cool footer :p
+		<div class="d-flex justify-content-between">
+			<span class="text-muted fs-6">
+				Copyright <i class="fa-regular fa-copyright"></i> 2024 Arpan Kanungo
+			</span>
+			<span>
+				<a target="_blank" href="https://www.linkedin.com/in/arpan-kanungo-17012a139/"><i class="fa-brands fa-linkedin"></i></a>
+				<a target="_blank" href="https://x.com/ArpanKanungo"><i class="fa-brands fa-square-x-twitter"></i></a>
+				<a target="_blank" href="https://github.com/arpankodes"><i class="fa-brands fa-github"></i></a>
+			</span>
+		</div>
 	</footer>
 </div>
 
@@ -48,20 +57,12 @@
 	}
 
 	footer {
-		display: flex;
+		/* display: flex;
 		flex-direction: column;
 		justify-content: center;
-		align-items: center;
+		align-items: center; */
 		padding: 12px;
+		background-color: #BEBEBE;
 	}
 
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
-	}
 </style>

@@ -11,7 +11,7 @@
 		  </button>
 		  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav">
-			  <a class="nav-link active" aria-current="page" href="/">Home</a>
+			  <a class="nav-link" aria-current="page" href="/">Home</a>
 			  <a class="nav-link" href="/about">About</a>
 			  <a class="nav-link" href="/portfolio">Portfolio</a>
 			  <a href="/blog" class="nav-link">Blog</a>
@@ -27,5 +27,15 @@
 <style>
 	a:link {
 		text-decoration: none;
+		color: #B2BEB5;
+	}
+
+	a:hover {
+		text-decoration: none;
+		color: #778899;
+	}
+
+	nav {
+		background-color: #BEBEBE;
 	}
 </style>
