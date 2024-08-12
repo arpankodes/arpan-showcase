@@ -29,10 +29,10 @@
 			<span class="text-muted fs-6">
 				Copyright <i class="fa-regular fa-copyright"></i> 2024 Arpan Kanungo
 			</span>
-			<span>
-				<a target="_blank" href="https://www.linkedin.com/in/arpan-kanungo-17012a139/"><i class="fa-brands fa-linkedin"></i></a>
-				<a target="_blank" href="https://x.com/ArpanKanungo"><i class="fa-brands fa-square-x-twitter"></i></a>
-				<a target="_blank" href="https://github.com/arpankodes"><i class="fa-brands fa-github"></i></a>
+			<span class="d-flex gap-2">
+				<a target="_blank" href="https://www.linkedin.com/in/arpan-kanungo-17012a139/"><i class="fa-brands fa-linkedin ms-2"></i></a>
+				<a target="_blank" href="https://x.com/ArpanKanungo"><i class="fa-brands fa-square-x-twitter ms-2"></i></a>
+				<a target="_blank" href="https://github.com/arpankodes"><i class="fa-brands fa-github ms-2"></i></a>
 			</span>
 		</div>
 	</footer>
