@@ -7,7 +7,7 @@
         <div class="col-md-3">
             <ul>
                 <li>
-                    <a href="/projects/weather">Weather</a>
+                    <a href="/projects/coordinates">Coordinates</a>
                 </li>
             </ul>
         </div>

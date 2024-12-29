@@ -3,6 +3,6 @@
 
     onMount(()=>{
         const currentUrl = window.location.href
-        window.location.href= currentUrl + '/weather'
+        window.location.href= currentUrl + '/coordinates'
     })
 </script>
