@@ -21,9 +21,9 @@
 		<a href="/projects" class="cta-button primary">My Projects</a>
 		<a href="/blog" class="cta-button secondary">Read Blog</a>
 		<div class="social-links">
-			<a href="/socials" class="social-link">LinkedIn</a>
-			<a href="/socials" class="social-link">GitHub</a>
-			<a href="/socials" class="social-link">Twitter</a>
+			<a target="_blank" href="https://www.linkedin.com/in/arpan-kanungo-17012a139/" class="social-link">LinkedIn</a>
+			<a target="_blank" href="https://www.linkedin.com/in/arpan-kanungo-17012a139/" class="social-link">GitHub</a>
+			<a target="_blank" href="https://x.com/ArpanKanungo" class="social-link">Twitter</a>
 		</div>
 	  </nav>
 	</div>
