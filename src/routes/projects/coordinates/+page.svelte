@@ -19,6 +19,7 @@
     }
 </script>
 
+<h1>Coordinates</h1>
 <div class="input mb-5">
     <label for="city" class="form-label">Enter city</label>
     <div class="d-flex gap-2">
